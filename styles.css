@@ -1,0 +1,26 @@
+body{
+  background-color: #3C735D
+}
+
+h1{
+color: #6DD5AC;
+border: 5px light Green;
+text-align: center;
+}
+
+h2{
+  text-align: center;
+  color: #6DD5AC;
+}
+p{
+  text-align: center;
+}
+img.center{
+  display: block;
+  margin: 0 auto;
+  height: 200px;
+
+
+
+
+}
